@@ -2,7 +2,7 @@
 
 ### Demo
 
-![Demo]('../demo.gif')
+![Demo]('https://raw.githubusercontent.com/ganeshmani/redux-toolkit-user-flow/master/demo.gif')
 
 ### Libraries Used
 -  [React/Redux Toolkit](https://redux-toolkit.js.org/)
