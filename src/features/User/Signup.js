@@ -71,12 +71,12 @@ const Signup = () => {
                 </div>
               </div>
               <div>
-                <label
+                {/* <label
                   for="email"
                   className="block text-sm font-medium text-gray-700"
                 >
                   Email address
-                </label>
+                </label> */}
                 <div className="mt-1">
                   <input
                     id="email"
